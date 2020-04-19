@@ -68,7 +68,15 @@ main{
   .step-box {
     float: none;
     display: block;
-    margin: 0 auto !important;
-
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-bottom: 20px !important;
+    width: 90%;
   }
+
+  main {
+    width: 100%;
+  }
+
+
 }
